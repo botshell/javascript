@@ -1,4 +1,4 @@
-[Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
+[GoogleJavaScriptStyleGuide](https://google.github.io/styleguide/jsguide.html)
 
 [Source code and](https://github.com/google/styleguide/blob/gh-pages/jsguide.html)
 
